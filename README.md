@@ -1,73 +1,11 @@
-# React + TypeScript + Vite
+<img width="1920" height="1080" alt="Captura de Tela (52)" src="https://github.com/user-attachments/assets/02f3c9d3-88f5-47e9-9ae5-7235487d79de" />
+<img width="1920" height="1080" alt="Captura de Tela (49)" src="https://github.com/user-attachments/assets/8d8ac554-1480-4695-8ebf-6f66b7854af6" />
+<img width="1920" height="1080" alt="Captura de Tela (51)" src="https://github.com/user-attachments/assets/ea340990-398c-4029-ab82-97329c062de6" />
+<img width="1920" height="1080" alt="Captura de Tela (50)" src="https://github.com/user-attachments/assets/e6ea896c-3b24-4b4b-b119-f7b8d2432b7c" />
+<img width="1920" height="1080" alt="Captura de Tela (48)" src="https://github.com/user-attachments/assets/966a4243-8496-442f-9de5-ddf1d34865c1" />
+<img width="1920" height="1080" alt="Captura de Tela (47)" src="https://github.com/user-attachments/assets/5db212e5-d76c-4f68-bb71-422ce24265bd" />
+<img width="1920" height="1080" alt="Captura de Tela (46)" src="https://github.com/user-attachments/assets/e9fec95b-bb78-4068-958c-a0160a39944c" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+Desktop Point of Sale (POS) system developed with Electron, React, TypeScript, and Firebase for real-time sales and inventory management. 
+Sistema de Ponto de Venda (PDV) desktop desenvolvido com Electron, React, TypeScript e Firebase para gestão de vendas e estoque em tempo real.

@@ -7,5 +7,25 @@
 <img width="1920" height="1080" alt="Captura de Tela (48)" src="https://github.com/user-attachments/assets/966a4243-8496-442f-9de5-ddf1d34865c1" />
 <img width="1920" height="1080" alt="Captura de Tela (52)" src="https://github.com/user-attachments/assets/02f3c9d3-88f5-47e9-9ae5-7235487d79de" />
 
-Desktop Point of Sale (POS) system developed with Electron, React, TypeScript, and Firebase for real-time sales and inventory management. 
-Sistema de Ponto de Venda (PDV) desktop desenvolvido com Electron, React, TypeScript e Firebase para gestão de vendas e estoque em tempo real.
+I’m excited to share one of my most robust projects yet: a complete, production-ready Point of Sale (POS) system built from scratch and successfully implemented in a real-world business.
+
+The goal was to deliver a desktop experience capable of handling daily operations with high performance and zero friction.
+
+Tech Stack:
+Electron 
+React 
+TypeScript 
+Tailwind CSS 
+
+Features:
+Main Sales Panel: Fully integrated with barcode scanning for fast, seamless checkouts.
+
+Financial Dashboards: Real-time data visualization to track revenue, daily sales, and metrics.
+
+Admin Hub: A centralized panel for deep operational control.
+
+Product & Inventory Registry: Comprehensive system to manage stock levels and item details.
+
+Customer Management: CRM capabilities built directly into the workflow.
+
+Seeing the code handle actual daily transactions, track real inventory, and streamline a real businesss workflow has been incredibly rewarding. It taught me a lot about software architecture, state management, and the importance of performance under pressure.

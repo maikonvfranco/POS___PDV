@@ -5,7 +5,7 @@
 <img width="1920" height="1080" alt="Captura de Tela (50)" src="https://github.com/user-attachments/assets/e6ea896c-3b24-4b4b-b119-f7b8d2432b7c" />
 <img width="1920" height="1080" alt="Captura de Tela (48)" src="https://github.com/user-attachments/assets/966a4243-8496-442f-9de5-ddf1d34865c1" />
 <img width="1920" height="1080" alt="Captura de Tela (52)" src="https://github.com/user-attachments/assets/02f3c9d3-88f5-47e9-9ae5-7235487d79de" />
-
+<img width="2304" height="1997" alt="PDV" src="https://github.com/user-attachments/assets/556d004a-c2ac-400d-ab72-919269f29b7c" />
 
 Desktop Point of Sale (POS) system developed with Electron, React, TypeScript, and Firebase for real-time sales and inventory management. 
 Sistema de Ponto de Venda (PDV) desktop desenvolvido com Electron, React, TypeScript e Firebase para gestão de vendas e estoque em tempo real.
